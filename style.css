@@ -43,18 +43,18 @@ nav .left a {
 
 nav .right a {
     color: var(--text-color);
-    margin: 0 10px;
+    margin: 0 20px;
 }
 
 nav .right a:last-child {
     color: var(--background-color);
     background-color: var(--text-color);
     padding: 5px 15px;
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 nav .right a span {
-    margin-left: 5px;
+    margin-right: 10px;
 }
 
 /* SECTION 1: SMALL DESCRIPTION OF A PERSON AND THE USER HEADSHOT */
